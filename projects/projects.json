@@ -3688,6 +3688,27 @@
         "Responsive",
         "Cloud"
       ]
+    },
+    {
+      "name": "Tunexer Radio",
+      "thumb": "tunexer-radio/thumb.png",
+      "desc": "Create music stations by searching your favorite YouTube videos in Tunexer.com",
+      "url": "http://www.tunexer.com",
+      "info": "https://twitter.com/tunexer",
+      "submitter": "javiergarzac",
+      "submissionDate": "2015-05-25",
+      "tags": [
+        "Create music stations",
+        "Online Radio",
+        "Music", 
+        "Youtube",
+        "Streaming", 
+        "Responsive", 
+        "Api",
+        "Bootstrap", 
+        "Angular",
+        "jQuery",
+      ]
     }
 
   ]
